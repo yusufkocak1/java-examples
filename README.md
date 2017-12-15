@@ -1,2 +1,5 @@
-verilen text'deki verileri parse işlemi yapan ve 1. öğretim 2.öğretim olarak ayırıp farklı bir text'yazan  program yapınız.
-bu program sayesinde öğrenci notlarıda değiştirilebilir olmalıdır.
+Java ile ilgili örneklerin bulunduğu bir depo. Aşağıdaki örnekler mevcuttur.
+
+Json kütüphanesi ile işlem yapma
+Jsoup kütüphanesi ile işlem yapma
+basit metin belgesi okuma işlemleri, string parser ve swing 
