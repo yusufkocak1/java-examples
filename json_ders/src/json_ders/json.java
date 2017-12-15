@@ -39,7 +39,7 @@ public class json {
 			
 			JSONArray array=(JSONArray)parser.parse(getjsonstring());
 			JSONObject jsonObject= (JSONObject) array.get(0);
-			System.out.println(jsonObject.get(""));
+			System.out.println(jsonObject.get("kullanici_adi"));
 		} catch (ParseException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
