@@ -48,7 +48,7 @@ public class json {
 	}
 	
 	public String getjsonstring(){
-		String myURL = "http://localhost/kullanici_select";
+		String myURL = "http://localhost/kullanici_select";//http://themusicplayer.org/html/json_data.html
 		
 		URLConnection urlConn=null;
 		InputStreamReader is=null;
